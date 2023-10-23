@@ -10,7 +10,8 @@ sites:
     url: https://upai-hub-staging.fly.dev/
 
 status-website:
-  cname: status.indiaultimate.org
+  # cname: status.indiaultimate.org
+  baseUrl: /status
   logoUrl: "https://raw.githubusercontent.com/india-ultimate/hub/blob/main/frontend/assets/logo-vertical.png"
   name: India Ultimate Web Status page
   introTitle: Status page for sites related to India Ultimate
