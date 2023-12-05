@@ -4,7 +4,7 @@
     "url": "https://hub.indiaultimate.org",
     "icon": "https://icons.duckduckgo.com/ip3/hub.indiaultimate.org.ico",
     "slug": "hub-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 449,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2023-12-05": 0,
       "2023-11-02": 31
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/upai-hub-staging.fly.dev.ico",
     "slug": "hub-staging",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.15%",
     "time": 320,
     "timeDay": 300,
     "timeWeek": 306,
