@@ -4,7 +4,7 @@
     "url": "https://hub.indiaultimate.org",
     "icon": "https://icons.duckduckgo.com/ip3/hub.indiaultimate.org.ico",
     "slug": "hub-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 419,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2024-05-08": 0,
       "2023-12-05": 63,
       "2023-11-02": 31
     }
