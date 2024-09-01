@@ -30,7 +30,7 @@
     "url": "https://upai-hub-staging.fly.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/upai-hub-staging.fly.dev.ico",
     "slug": "hub-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -42,6 +42,7 @@
     "timeMonth": 339,
     "timeYear": 385,
     "dailyMinutesDown": {
+      "2024-09-01": 0,
       "2024-02-17": 20,
       "2023-11-14": 22,
       "2023-10-24": 358,
