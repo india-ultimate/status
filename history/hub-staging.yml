@@ -1,7 +1,7 @@
 url: https://upai-hub-staging.fly.dev/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-05T17:13:49.607Z
+status: up
+code: 200
+responseTime: 811
+lastUpdated: 2024-09-05T17:27:55.619Z
 startTime: 2023-10-23T10:31:57.938Z
 generator: Upptime <https://github.com/upptime/upptime>
