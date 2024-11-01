@@ -11,9 +11,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.89%",
     "time": 742,
-    "timeDay": 444,
-    "timeWeek": 453,
-    "timeMonth": 984,
+    "timeDay": 375,
+    "timeWeek": 448,
+    "timeMonth": 979,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2024-10-18": 76,
@@ -25,8 +25,7 @@
       "2024-06-18": 59,
       "2024-06-05": 32,
       "2024-05-08": 34,
-      "2023-12-05": 63,
-      "2023-11-02": 31
+      "2023-12-05": 63
     }
   },
   {
@@ -35,15 +34,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/upai-hub-staging.fly.dev.ico",
     "slug": "hub-staging",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 420,
-    "timeDay": 221,
-    "timeWeek": 2089,
-    "timeMonth": 874,
+    "timeDay": 373,
+    "timeWeek": 2105,
+    "timeMonth": 876,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2024-10-29": 29,
