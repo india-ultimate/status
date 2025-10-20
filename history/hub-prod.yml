@@ -1,7 +1,7 @@
 url: https://hub.indiaultimate.org
-status: up
-code: 200
-responseTime: 502
-lastUpdated: 2025-10-20T23:00:50.461Z
+status: down
+code: 503
+responseTime: 16862
+lastUpdated: 2025-10-20T23:30:05.746Z
 startTime: 2023-10-23T10:31:57.134Z
 generator: Upptime <https://github.com/upptime/upptime>
