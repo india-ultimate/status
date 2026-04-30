@@ -10,19 +10,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 730,
-    "timeDay": 409,
-    "timeWeek": 392,
-    "timeMonth": 372,
-    "timeYear": 512,
+    "time": 729,
+    "timeDay": 368,
+    "timeWeek": 387,
+    "timeMonth": 362,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2026-01-09": 24,
       "2025-12-17": 91,
       "2025-11-21": 23,
       "2025-10-21": 85,
       "2025-10-20": 30,
-      "2025-08-01": 17,
-      "2025-04-30": 37
+      "2025-08-01": 17
     }
   },
   {
@@ -31,16 +30,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/upai-hub-staging.fly.dev.ico",
     "slug": "hub-staging",
     "status": "up",
-    "uptime": "89.02%",
+    "uptime": "89.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "72.75%",
     "time": 467,
-    "timeDay": 258,
-    "timeWeek": 221,
-    "timeMonth": 292,
-    "timeYear": 370,
+    "timeDay": 157,
+    "timeWeek": 218,
+    "timeMonth": 283,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2026-03-27": 145,
       "2026-03-26": 1440,
@@ -147,8 +146,7 @@
       "2025-11-21": 23,
       "2025-11-16": 21,
       "2025-10-01": 1037,
-      "2025-07-10": 29,
-      "2025-04-30": 37
+      "2025-07-10": 29
     }
   }
 ]
