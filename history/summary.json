@@ -29,9 +29,9 @@
     "url": "https://upai-hub-staging.fly.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/upai-hub-staging.fly.dev.ico",
     "slug": "hub-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "89.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "72.76%",
@@ -146,7 +146,8 @@
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
-      "2025-12-18": 676
+      "2025-12-18": 676,
+      "2026-06-15": 0
     }
   }
 ]
